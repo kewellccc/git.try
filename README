@@ -1,1 +1,7 @@
 Hello World!
+Checkout once for discarding unstaged modification! Add again
+
+Have learnt:
+1) git log -p -3 --stat --online
+2) git reset filename for unstaging a staged file (opposite to git add filename)
+3) git checkout filename to discarding unstaged modificaitons
