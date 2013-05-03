@@ -7,6 +7,8 @@ Have learnt:
 3) git checkout filename to discarding unstaged modificaitons
 4) git checkout HEAD filename to move things from local repositories to
    both stage and working directory 
+5) git pull = git fetch + git merge
+
 
 haha
 
